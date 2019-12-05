@@ -119,7 +119,7 @@ publications:
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: P2V: Large-scale academic paper embedding
+      - title: "P2V: Large-scale academic paper embedding"
         link: "https://link.springer.com/article/10.1007/s11192-019-03206-9"
         authors: Yi Zhang, Fen Zhao, and Jianguo Lu
         conference: "Scientometrics, 121(1):399–432, October 2019"
