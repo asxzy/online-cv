@@ -34,26 +34,28 @@ sidebar:
     interests:
 
 career-profile:
-    title: Career Profile
+    title: About me
     summary: |
       With knowledge in Machine Learning, Data Mining, Neural Networks and AI, I spread my passion into both academic and industry.
+
       I am a Ph.D. in Computer Science and actively apply for research position. I have experience with CZI, Alibaba, Tencent, and Comsenz. 
+      
 education:
     - degree: Ph.D. in Computer Science
       university: University of Windsor
-      time: 2015 - 2019
+      time: Sept 2015 - Sept 2019
       details: 
     - degree: M.Sc. in Computer Science
       university: University of Windsor
-      time: 2013 - 2015
+      time: Jan 2013 - Feb 2015
       details: 
     - degree: B.Eng. in Computer Science and Technology
       university: Xidian University
-      time: 2008 - 2012
+      time: Sept 2008 - July 2012
       details: 
 experiences:
     - role: Graduate Research and Teaching Assistant
-      time: 2013 - 2019
+      time: Sept 2013 - Dec 2019
       company: University of Windsor
       details: |
           - Research Assistant / Teaching Assistant in School of Computer Science
@@ -71,13 +73,13 @@ experiences:
           - Bit-Torrent Service in Node.js.
           - Developed the department website.
     - role: Team Leader
-      time: Oct -- Dec 2010
+      time: Oct - Dec 2010
       company: Tencent Technology (Shenzhen) Co., Ltd.
       details: |
           - Recruited and led the team of 50 staffs
           - Host three on-campus events, served over 1,000 students
     - role: Software Engineer
-      time: Jan -- Feb 2010
+      time: Jan - Feb 2010
       company: Comsenz (Beijing) Inc. (Acquired by Tencent)
       details: |
           - Designed and developed a website that has similar functions to Twitter
@@ -93,7 +95,7 @@ projects:
         tagline: |
             - Propose and implemented embedding algorithms for large-scale data (over 27M papers, 500M links)
             - Build a Similarity Search Engine for Computer Science papers and authors
-            -  Design and implemented multiple real-world applications for academic papers, such as Ranking, Classification, Clustering, Author Disambiguation, Item Recommendation, etc.
+            - Design and implemented multiple real-world applications for academic papers, such as Ranking, Classification, Clustering, Author Disambiguation, Item Recommendation, etc.
 
 
       - title: DevStudio
