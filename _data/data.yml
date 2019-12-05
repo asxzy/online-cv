@@ -181,6 +181,9 @@ publications:
       authors: Yi Zhang, Jianguo Lu
       conference: "Social Network Analysis and Mining, 6(1), December 2016"
 
+workshops:
+  title: Workshop Papers
+  papers:
     - title: "ShortWalk: Long Random Walks Considered Harmful for Network Embeddings on Directed Graphs"
       link: "http://zhang18f.myweb.cs.uwindsor.ca/shortwalk"
       authors: Yi Zhang, Fen Zhao, and Lu Jianguo
