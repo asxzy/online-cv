@@ -191,7 +191,7 @@ workshops:
 
     - title: "Author Embeddings on Heterogeneous Networks"
       link: "http://zhao15m.myweb.cs.uwindsor.ca/a2v"
-      authors: Fen Zhao, Yi Zhang, and Lu Jianguo
+      authors: Fen Zhao, <b>Yi Zhang</b>, and Lu Jianguo
       conference: "In The 3rd Workshop of Heterogeneous Information Network Analysis and Applications, CIKM 2019 Workshop, Beijing, China, November 2019"
 
     - title: "Near-duplicated Documents in CiteSeerX"
