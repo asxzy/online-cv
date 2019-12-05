@@ -128,6 +128,16 @@ publications:
         link: "https://link.springer.com/article/10.1007/s11192-019-03010-5"
         authors: Fen Zhao, Yi Zhang, Jianguo Lu, and Ofer Shai
         conference: "Scientometrics, 118(3):1119–1140, March 2019"
+        
+      - title: "Improve Network Embeddings with Regularization"
+        link: "https://dl.acm.org/citation.cfm?id=3269320"
+        authors: Yi Zhang, Jianguo Lu, and Ofer Shai
+        conference: "In Proceedings of the 27th ACM International Conference on Information and Knowledge Management, CIKM ’18, pages 1643–1646. ACM, 2018"
+
+      - title: "Discover millions of fake followers in Weibo"
+        link: "https://link.springer.com/article/10.1007/s13278-016-0324-2"
+        authors: Yi Zhang, Jianguo Lu
+        conference: "Social Network Analysis and Mining, 6(1), December 2016"
 
       - title: "ShortWalk: Long Random Walks Considered Harmful for Network Embeddings on Directed Graphs"
         link: "#"
@@ -139,11 +149,6 @@ publications:
         authors: Fen Zhao, Yi Zhang, and Lu Jianguo
         conference: "In The 3rd Workshop of Heterogeneous Information Network Analysis and Applications, CIKM 2019 Workshop, Beijing, China, November 2019"
 
-      - title: "Improve Network Embeddings with Regularization"
-        link: "https://dl.acm.org/citation.cfm?id=3269320"
-        authors: Yi Zhang, Jianguo Lu, and Ofer Shai
-        conference: "In Proceedings of the 27th ACM International Conference on Information and Knowledge Management, CIKM ’18, pages 1643–1646. ACM, 2018"
-
       - title: "Identifying Academic Papers in Computer Science Based on Text Classification"
         link: "#"
         authors: Tong Zhou, Yi Zhang, and Jianguo Lu
@@ -153,8 +158,3 @@ publications:
         link: "#"
         authors: Yi Zhang, Jianguo Lu
         conference: "In Proceedings of the IJCAI 2016 Workshop on Scholarly Big Data, pages 22–28, 2016"
-
-      - title: "Discover millions of fake followers in Weibo"
-        link: "#"
-        authors: Yi Zhang, Jianguo Lu
-        conference: "Social Network Analysis and Mining, 6(1), December 2016"
