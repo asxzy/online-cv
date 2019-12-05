@@ -105,7 +105,6 @@ researches:
       details : |
           - Estimate similarity, Identify Near-duplicates, Analyze Spammers in Weibo and Twitter
     - title: MapReduce Program Design and Performance Analysis based on Hadoop
-      link: "#"
       details : |
           - Performance benchmark and analysis on Java and Python
 
@@ -152,8 +151,8 @@ projects:
       details: |
           - Recruited and led the team of 15 staffs
           - Won 2 national-wide awards Apps in Qrobot Application Development Competition
-            - "First prize: Self-learning AI Game (Bai Bian Xiao Dai)"
-            - "Outstanding Award: Education-Aid App (Xiao Q Bei Dan Ci)"
+            - First prize: Self-learning AI Game (Bai Bian Xiao Dai)
+            - Outstanding Award: Education-Aid App (Xiao Q Bei Dan Ci)
 publications:
   title: Publications
   papers:
