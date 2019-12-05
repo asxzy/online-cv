@@ -28,15 +28,15 @@ sidebar:
       level: Native
       
   interests:
-    - Knowledge Graph
-    - Data Mining
-    - Natural Language Processing
-    - Machine Learning
-    - Deep Learning
-    - Data Representation
-    - Deep Reinforcement Learning
-    - Algorithmic Trading
-    - Information Network Analysis
+    - item: Knowledge Graph
+    - item: Data Mining
+    - item: Natural Language Processing
+    - item: Machine Learning
+    - item: Deep Learning
+    - item: Data Representation
+    - item: Deep Reinforcement Learning
+    - item: Algorithmic Trading
+    - item: Information Network Analysis
 
 career-profile:
   title: About me
