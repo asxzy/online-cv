@@ -19,7 +19,7 @@ sidebar:
     github: 
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -36,83 +36,65 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      With knowledge in Machine Learning, Data Mining, Neural Networks and AI, I spread my passion into both academic and industry.
+      I am a Ph.D. in Computer Science and actively apply for research position. I have experience with CZI, Alibaba, Tencent, and Comsenz. 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+    - degree: Ph.D. in Computer Science
+      university: University of Windsor
+      time: 2015 - 2019
+      details: 
+    - degree: M.Sc. in Computer Science
+      university: University of Windsor
+      time: 2013 - 2015
+      details: 
+    - degree: B.Eng. in Computer Science and Technology
+      university: Xidian University
+      time: 2008 - 2012
+      details: 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Graduate Research and Teaching Assistant
+      time: 2013 - 2019
+      company: University of Windsor
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+          - Research Assistant / Teaching Assistant in School of Computer Science
+          - Graduate Assistant / Research Assistant in Faculty of Education
+    - role: Visiting Data Scientist
+      time: Jan - Aug 2017
+      company: Chan Zuckerberg Initiative
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+          - Embedding algorithm for academic publications in health domain
+          - Author Ranking and Disambiguation
+    - role: Web Developer, Software Engineer
+      time: Aug 2011
+      company: Taobao Software (China) Co., Ltd.
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Bit-Torrent Service in Node.js.
+          - Developed the department website.
+    - role: Team Leader
+      time: Oct -- Dec 2010
+      company: Tencent Technology (Shenzhen) Co., Ltd.
+      details: |
+          - Recruited and led the team of 50 staffs
+          - Host three on-campus events, served over 1,000 students
+    - role: Software Engineer
+      time: Jan -- Feb 2010
+      company: Comsenz (Beijing) Inc. (Acquired by Tencent)
+      details: |
+          - Designed and developed a website that has similar functions to Twitter
+          
+          
+
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    intro: 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Learning Embeddings for Academic Papers
+        link: "http://zhang18f.myweb.cs.uwindsor.ca/p2v"
+        tagline: |
+            - Propose and implemented embedding algorithms for large-scale data (over 27M papers, 500M links)
+            - Build a Similarity Search Engine for Computer Science papers and authors
+            -  Design and implemented multiple real-world applications for academic papers, such as Ranking, Classification, Clustering, Author Disambiguation, Item Recommendation, etc.
+
 
       - title: DevStudio
         link: "#"
@@ -137,42 +119,42 @@ publications:
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
+      - title: P2V: Large-scale academic paper embedding
+        link: "https://link.springer.com/article/10.1007/s11192-019-03206-9"
+        authors: Yi Zhang, Fen Zhao, and Jianguo Lu
+        conference: "Scientometrics, 121(1):399–432, October 2019"
+
+      - title: "Measuring academic influence using heterogeneous author-citation networks"
+        link: "https://link.springer.com/article/10.1007/s11192-019-03010-5"
+        authors: Fen Zhao, Yi Zhang, Jianguo Lu, and Ofer Shai
+        conference: "Scientometrics, 118(3):1119–1140, March 2019"
+
+      - title: "ShortWalk: Long Random Walks Considered Harmful for Network Embeddings on Directed Graphs"
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: Yi Zhang, Fen Zhao, and Lu Jianguo
+        conference: "In The 3rd Workshop of Heterogeneous Information Network Analysis and Applications, CIKM 2019 Workshop, Beijing, China, November 2019"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: "Author Embeddings on Heterogeneous Networks"
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        authors: Fen Zhao, Yi Zhang, and Lu Jianguo
+        conference: "In The 3rd Workshop of Heterogeneous Information Network Analysis and Applications, CIKM 2019 Workshop, Beijing, China, November 2019"
 
-      - title: A syntax directed compiler for Algol 60
+      - title: "Improve Network Embeddings with Regularization"
+        link: "https://dl.acm.org/citation.cfm?id=3269320"
+        authors: Yi Zhang, Jianguo Lu, and Ofer Shai
+        conference: "In Proceedings of the 27th ACM International Conference on Information and Knowledge Management, CIKM ’18, pages 1643–1646. ACM, 2018"
+
+      - title: "Identifying Academic Papers in Computer Science Based on Text Classification"
         link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        authors: Tong Zhou, Yi Zhang, and Jianguo Lu
+        conference: "In Proceedings of the IJCAI 2016 Workshop on Scholarly Big Data, pages 16–21, 2016"
 
-skills:
-    title: Skills &amp; Proficiency
+      - title: "Near-duplicated Documents in CiteSeerX"
+        link: "#"
+        authors: Yi Zhang, Jianguo Lu
+        conference: "In Proceedings of the IJCAI 2016 Workshop on Scholarly Big Data, pages 22–28, 2016"
 
-    toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+      - title: "Discover millions of fake followers in Weibo"
+        link: "#"
+        authors: Yi Zhang, Jianguo Lu
+        conference: "Social Network Analysis and Mining, 6(1), December 2016"
