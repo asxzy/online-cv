@@ -3,198 +3,186 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False # set to False if you want education in main section instead of in sidebar
-
-    # Profile information
-    name: Yi Zhang
-    tagline: Ph.D. in Computer Science
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-
-    # Sidebar links
-    email: asxzy@asxzy.net
-    phone: +1 226-246-1357
-    website: asxzy.net #do not add http://
-    linkedin: asxzy
-    github: 
-    gitlab:
-    bitbucket:
-    twitter: 
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-
-    languages:
-      - idiom: English
-        level: Professional
-        
-      - idiom: Chinese
-        level: Native
-        
-    interests:
+  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: False # set to False if you want education in main section instead of in sidebar
+  # Profile information
+  name: Yi Zhang
+  tagline: Ph.D. in Computer Science
+  avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  # Sidebar links
+  email: asxzy@asxzy.net
+  phone: +1 226-246-1357
+  website: asxzy.net #do not add http://
+  linkedin: asxzy
+  github: 
+  gitlab:
+  bitbucket:
+  twitter: 
+  stack-overflow: # Number/Username, e.g. 123456/alandoe
+  codewars:
+  goodreads: # Number-Username, e.g. 123456-alandoe
+  languages:
+    - idiom: English
+      level: Professional
+    - idiom: Chinese
+      level: Native
+      
+  interests:
 
 career-profile:
-    title: About me
-    summary: |
-      With knowledge in Machine Learning, Data Mining, Neural Networks and AI, I spread my passion into both academic and industry.
+  title: About me
+  summary: |
+    With knowledge in Machine Learning, Data Mining, Neural Networks and AI, I spread my passion into both academic and industry.
 
-      I am a Ph.D. in Computer Science and actively apply for research position. I have experience with CZI, Alibaba, Tencent, and Comsenz. 
-      
+    I am a Ph.D. in Computer Science and actively apply for research position. I have experience with CZI, Alibaba, Tencent, and Comsenz. 
+    
 education:
-    - degree: Ph.D. in Computer Science
-      university: University of Windsor
-      time: Sept 2015 - Sept 2019
-      details: 
-    - degree: M.Sc. in Computer Science
-      university: University of Windsor
-      time: Jan 2013 - Feb 2015
-      details: 
-    - degree: B.Eng. in Computer Science and Technology
-      university: Xidian University
-      time: Sept 2008 - July 2012
-      details: 
+  - degree: Ph.D. in Computer Science
+    university: University of Windsor
+    time: Sept 2015 - Sept 2019
+    details: 
+  - degree: M.Sc. in Computer Science
+    university: University of Windsor
+    time: Jan 2013 - Feb 2015
+    details: 
+  - degree: B.Eng. in Computer Science and Technology
+    university: Xidian University
+    time: Sept 2008 - July 2012
+    details: 
 
 experiences:
-    - role: Graduate Research and Teaching Assistant
-      time: Sept 2013 - Dec 2019
-      company: University of Windsor
-      details: |
-          - Research Assistant / Teaching Assistant in School of Computer Science
-          - Graduate Assistant / Research Assistant in Faculty of Education
-    - role: Visiting Data Scientist
-      time: Jan - Aug 2017
-      company: Chan Zuckerberg Initiative
-      details: |
-          - Embedding algorithm for academic publications in health domain
-          - Author Ranking and Disambiguation
-    - role: Web Developer, Software Engineer
-      time: Aug 2011
-      company: Taobao Software (China) Co., Ltd.
-      details: |
-          - Bit-Torrent Service in Node.js.
-          - Developed the department website.
-    - role: Team Leader
-      time: Oct - Dec 2010
-      company: Tencent Technology (Shenzhen) Co., Ltd.
-      details: |
-          - Recruited and led the team of 50 staffs
-          - Host three on-campus events, served over 1,000 students
-    - role: Software Engineer
-      time: Jan - Feb 2010
-      company: Comsenz (Beijing) Inc. (Acquired by Tencent)
-      details: |
-          - Designed and developed a website that has similar functions to Twitter
-          
+  - role: Graduate Research and Teaching Assistant
+    time: Sept 2013 - Dec 2019
+    company: University of Windsor
+    details: |
+        - Research Assistant / Teaching Assistant in School of Computer Science
+        - Graduate Assistant / Research Assistant in Faculty of Education
+  - role: Visiting Data Scientist
+    time: Jan - Aug 2017
+    company: Chan Zuckerberg Initiative
+    details: |
+        - Embedding algorithm for academic publications in health domain
+        - Author Ranking and Disambiguation
+  - role: Web Developer, Software Engineer
+    time: Aug 2011
+    company: Taobao Software (China) Co., Ltd.
+    details: |
+        - Bit-Torrent Service in Node.js.
+        - Developed the department website.
+  - role: Team Leader
+    time: Oct - Dec 2010
+    company: Tencent Technology (Shenzhen) Co., Ltd.
+    details: |
+        - Recruited and led the team of 50 staffs
+        - Host three on-campus events, served over 1,000 students
+  - role: Software Engineer
+    time: Jan - Feb 2010
+    company: Comsenz (Beijing) Inc. (Acquired by Tencent)
+    details: |
+        - Designed and developed a website that has similar functions to Twitter
+        
 researches:
-    title: Researches
-    intro: 
-    assignments:
-      - title: Learning Embeddings for Academic Papers
-        link: "http://zhang18f.myweb.cs.uwindsor.ca/p2v"
-        details : |
-            - Propose and implemented embedding algorithms for large-scale data (over 27M papers, 500M links)
-            - Build a Similarity Search Engine for Computer Science papers and authors
-            - Design and implemented multiple real-world applications for academic papers, such as Ranking, Classification, Clustering, Author Disambiguation, Item Recommendation, etc.
-      - title: Spammer Detection in Online Social Networks(OSNs)
-        link: "http://zhang18f.myweb.cs.uwindsor.ca/weibo"
-        details : |
-            - Estimate similarity, Identify Near-duplicates, Analyze Spammers in Weibo and Twitter
-      - title: MapReduce Program Design and Performance Analysis based on Hadoop
-        link: "#"
-        details : |
-            - Performance benchmark and analysis on Java and Python
-
-
-
-         
+  title: Researches
+  intro: 
+  assignments:
+    - title: Learning Embeddings for Academic Papers
+      link: "http://zhang18f.myweb.cs.uwindsor.ca/p2v"
+      details : |
+          - Propose and implemented embedding algorithms for large-scale data (over 27M papers, 500M links)
+          - Build a Similarity Search Engine for Computer Science papers and authors
+          - Design and implemented multiple real-world applications for academic papers, such as Ranking, Classification, Clustering, Author Disambiguation, Item Recommendation, etc.
+    - title: Spammer Detection in Online Social Networks(OSNs)
+      link: "http://zhang18f.myweb.cs.uwindsor.ca/weibo"
+      details : |
+          - Estimate similarity, Identify Near-duplicates, Analyze Spammers in Weibo and Twitter
+    - title: MapReduce Program Design and Performance Analysis based on Hadoop
+      link: "#"
+      details : |
+          - Performance benchmark and analysis on Java and Python
 
 projects:
-    title: Projects
-    intro: 
-    assignments:
-      - title: "Reciprocal Learning Project"
-        link: "https://reciprocal-learning.ca/"
-        role: "Conference Committee Member, Research Assistant, Graduate Assistant"
-        time: June 2017 - Present
-        details: |
-            - Conference Committee Member for multiple international conferences
-            - Web administrator for all websites/servers of the Reciprocal Learning Project
-
-      - title: Xidian Ruisi
-        link: "http://rs.xidian.edu.cn"
-        role: "Co-funder, Director"
-        time: May 2009 - Present
-        details: |
-            - The largest website in Xidian University – over 20,000 unique visitors per day
-            - Designed, developed and deployed
-              - Private Bit-Torrent Service
-              - World Cup Betting Virtual Game
-              - Online Chatting AI
-              - Live TV Streaming Service
-              - System Monitor Service
-              - Data Hot/Cold Backup Service
-            - Deployed and maintained 4 Linux servers
-
-      - title: Qian Li Ma Studio
-        role: "Funder, Director"
-        time: Sept 2012 - Dec 2012
-        details: |
-            - Recruited and led the team of 15 staffs
-            - Won 2 national-wide awards Apps in Qrobot Application Development Competition
-              - "First prize: Self-learning AI Game (Bai Bian Xiao Dai)"
-              - "Outstanding Award: Education-Aid App (Xiao Q Bei Dan Ci)"
-
-      - title: Quantitive trading for Chinese Market
-        role: "Funder, Director"
-        time: Sept 2012 - Dec 2012
-        details : |
-            - Design a backtesing and online trading platform for Chinese A-share Market and Commodities F)
-            - Design and analysis trading strategies
-            - Design and analysis High-Frequence Trading strategies.
-
-     - title: Search Engine for Computer Science Papers
-        link: "http://zhang18f.myweb.cs.uwindsor.ca/ss"
-        time: Sept 2018 - Sept 2019
-        details : |
-            - Build a Similarity Search Engine for Computer Science papers and authors
+  title: Projects
+  intro: 
+  assignments:
+    - title: "Reciprocal Learning Project"
+      link: "https://reciprocal-learning.ca/"
+      role: "Conference Committee Member, Research Assistant, Graduate Assistant"
+      time: June 2017 - Present
+      details: |
+          - Conference Committee Member for multiple international conferences
+          - Web administrator for all websites/servers of the Reciprocal Learning Project
+    - title: Xidian Ruisi
+      link: "http://rs.xidian.edu.cn"
+      role: "Co-funder, Director"
+      time: May 2009 - Present
+      details: |
+          - The largest website in Xidian University – over 20,000 unique visitors per day
+          - Designed, developed and deployed
+            - Private Bit-Torrent Service
+            - World Cup Betting Virtual Game
+            - Online Chatting AI
+            - Live TV Streaming Service
+            - System Monitor Service
+            - Data Hot/Cold Backup Service
+          - Deployed and maintained 4 Linux servers
+    - title: Qian Li Ma Studio
+      role: "Funder, Director"
+      time: Sept 2012 - Dec 2012
+      details: |
+          - Recruited and led the team of 15 staffs
+          - Won 2 national-wide awards Apps in Qrobot Application Development Competition
+            - "First prize: Self-learning AI Game (Bai Bian Xiao Dai)"
+            - "Outstanding Award: Education-Aid App (Xiao Q Bei Dan Ci)"
+    - title: Quantitive trading for Chinese Market
+      role: "Funder, Director"
+      time: Sept 2012 - Dec 2012
+      details : |
+          - Design a backtesing and online trading platform for Chinese A-share Market and Commodities F)
+          - Design and analysis trading strategies
+          - Design and analysis High-Frequence Trading strategies
+    - title: "Search Engine for Computer Science Papers"
+      link: "http://zhang18f.myweb.cs.uwindsor.ca/ss"
+      time: Sept 2018 - Sept 2019
+      details : |
+          - Build a Similarity Search Engine for Computer Science papers and authors
 
 publications:
-    title: Publications
-    papers:
-      - title: "P2V: Large-scale academic paper embedding"
-        link: "https://link.springer.com/article/10.1007/s11192-019-03206-9"
-        authors: Yi Zhang, Fen Zhao, and Jianguo Lu
-        conference: "Scientometrics, 121(1):399–432, October 2019"
+  title: Publications
+  papers:
+    - title: "P2V: Large-scale academic paper embedding"
+      link: "https://link.springer.com/article/10.1007/s11192-019-03206-9"
+      authors: Yi Zhang, Fen Zhao, and Jianguo Lu
+      conference: "Scientometrics, 121(1):399–432, October 2019"
 
-      - title: "Measuring academic influence using heterogeneous author-citation networks"
-        link: "https://link.springer.com/article/10.1007/s11192-019-03010-5"
-        authors: Fen Zhao, Yi Zhang, Jianguo Lu, and Ofer Shai
-        conference: "Scientometrics, 118(3):1119–1140, March 2019"
-        
-      - title: "Improve Network Embeddings with Regularization"
-        link: "https://dl.acm.org/citation.cfm?id=3269320"
-        authors: Yi Zhang, Jianguo Lu, and Ofer Shai
-        conference: "In Proceedings of the 27th ACM International Conference on Information and Knowledge Management, CIKM ’18, pages 1643–1646. ACM, 2018"
+    - title: "Measuring academic influence using heterogeneous author-citation networks"
+      link: "https://link.springer.com/article/10.1007/s11192-019-03010-5"
+      authors: Fen Zhao, Yi Zhang, Jianguo Lu, and Ofer Shai
+      conference: "Scientometrics, 118(3):1119–1140, March 2019"
+      
+    - title: "Improve Network Embeddings with Regularization"
+      link: "https://dl.acm.org/citation.cfm?id=3269320"
+      authors: Yi Zhang, Jianguo Lu, and Ofer Shai
+      conference: "In Proceedings of the 27th ACM International Conference on Information and Knowledge Management, CIKM ’18, pages 1643–1646. ACM, 2018"
 
-      - title: "Discover millions of fake followers in Weibo"
-        link: "https://link.springer.com/article/10.1007/s13278-016-0324-2"
-        authors: Yi Zhang, Jianguo Lu
-        conference: "Social Network Analysis and Mining, 6(1), December 2016"
+    - title: "Discover millions of fake followers in Weibo"
+      link: "https://link.springer.com/article/10.1007/s13278-016-0324-2"
+      authors: Yi Zhang, Jianguo Lu
+      conference: "Social Network Analysis and Mining, 6(1), December 2016"
 
-      - title: "ShortWalk: Long Random Walks Considered Harmful for Network Embeddings on Directed Graphs"
-        link: "http://zhang18f.myweb.cs.uwindsor.ca/shortwalk"
-        authors: Yi Zhang, Fen Zhao, and Lu Jianguo
-        conference: "In The 3rd Workshop of Heterogeneous Information Network Analysis and Applications, CIKM 2019 Workshop, Beijing, China, November 2019"
+    - title: "ShortWalk: Long Random Walks Considered Harmful for Network Embeddings on Directed Graphs"
+      link: "http://zhang18f.myweb.cs.uwindsor.ca/shortwalk"
+      authors: Yi Zhang, Fen Zhao, and Lu Jianguo
+      conference: "In The 3rd Workshop of Heterogeneous Information Network Analysis and Applications, CIKM 2019 Workshop, Beijing, China, November 2019"
 
-      - title: "Author Embeddings on Heterogeneous Networks"
-        link: "http://zhao15m.myweb.cs.uwindsor.ca/a2v"
-        authors: Fen Zhao, Yi Zhang, and Lu Jianguo
-        conference: "In The 3rd Workshop of Heterogeneous Information Network Analysis and Applications, CIKM 2019 Workshop, Beijing, China, November 2019"
+    - title: "Author Embeddings on Heterogeneous Networks"
+      link: "http://zhao15m.myweb.cs.uwindsor.ca/a2v"
+      authors: Fen Zhao, Yi Zhang, and Lu Jianguo
+      conference: "In The 3rd Workshop of Heterogeneous Information Network Analysis and Applications, CIKM 2019 Workshop, Beijing, China, November 2019"
 
-      - title: "Identifying Academic Papers in Computer Science Based on Text Classification"
-        authors: Tong Zhou, Yi Zhang, and Jianguo Lu
-        conference: "In Proceedings of the IJCAI 2016 Workshop on Scholarly Big Data, pages 16–21, 2016"
+    - title: "Identifying Academic Papers in Computer Science Based on Text Classification"
+      authors: Tong Zhou, Yi Zhang, and Jianguo Lu
+      conference: "In Proceedings of the IJCAI 2016 Workshop on Scholarly Big Data, pages 16–21, 2016"
 
-      - title: "Near-duplicated Documents in CiteSeerX"
-        authors: Yi Zhang, Jianguo Lu
-        conference: "In Proceedings of the IJCAI 2016 Workshop on Scholarly Big Data, pages 22–28, 2016"
+    - title: "Near-duplicated Documents in CiteSeerX"
+      authors: Yi Zhang, Jianguo Lu
+      conference: "In Proceedings of the IJCAI 2016 Workshop on Scholarly Big Data, pages 22–28, 2016"
