@@ -194,10 +194,10 @@ workshops:
       authors: Fen Zhao, Yi Zhang, and Lu Jianguo
       conference: "In The 3rd Workshop of Heterogeneous Information Network Analysis and Applications, CIKM 2019 Workshop, Beijing, China, November 2019"
 
-    - title: "Identifying Academic Papers in Computer Science Based on Text Classification"
-      authors: Tong Zhou, Yi Zhang, and Jianguo Lu
-      conference: "In Proceedings of the IJCAI 2016 Workshop on Scholarly Big Data, pages 16–21, 2016"
-
     - title: "Near-duplicated Documents in CiteSeerX"
       authors: Yi Zhang, Jianguo Lu
       conference: "In Proceedings of the IJCAI 2016 Workshop on Scholarly Big Data, pages 22–28, 2016"
+
+    - title: "Identifying Academic Papers in Computer Science Based on Text Classification"
+      authors: Tong Zhou, Yi Zhang, and Jianguo Lu
+      conference: "In Proceedings of the IJCAI 2016 Workshop on Scholarly Big Data, pages 16–21, 2016"
