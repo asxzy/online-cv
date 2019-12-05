@@ -99,7 +99,12 @@ researches:
       details : |
           - Propose and implemented embedding algorithms for large-scale data (over 27M papers, 500M links)
           - Build a Similarity Search Engine for Computer Science papers and authors
-          - Design and implemented multiple real-world applications for academic papers, such as Ranking, Classification, Clustering, Author Disambiguation, Item Recommendation, etc.
+          - Design and implemented multiple real-world applications for academic papers
+              - Ranking
+              - Classification
+              - Clustering
+              - Author Disambiguation
+              - Item Recommendation
     - title: Spammer Detection in Online Social Networks(OSNs)
       link: "http://zhang18f.myweb.cs.uwindsor.ca/weibo"
       details : |

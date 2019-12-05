@@ -19,16 +19,27 @@
   {% for research in researches.assignments %}
     <div class="item">
 
-      <span class="research-title">
-        {% if research.link %}
-        <a href="{{ research.link }}" target="_blank">{{ research.title }}</a>
-        {% else %}
-        {{ research.title }}
-        {% endif %}
-      </span>
+      <div class="meta">
 
-      {% if research.tagline %}
-      - <span class="research-tagline">{{ research.tagline }}</span>
+        <div class="upper-row">
+          {% if research.link %}
+          <h3 class="job-title"><a href="{{ research.link }}" target="_blank">{{ research.title }}</a></h3>
+          {% else %}
+          <h3 class="job-title">{{ research.title }}</h3>
+          {% endif %}
+          <div class="time">{{ research.time }}</div>
+        </div><!--//upper-row-->
+  
+        {% if research.role%}
+        <div class="company">{{ research.role }}</div>
+        {% endif %}
+  
+      </div><!--//meta-->
+
+      {% if research.details %}
+      <div class="details">
+        {{ research.details | markdownify }}
+      </div><!--//details-->
       {% endif %}
 
     </div><!--//item-->
