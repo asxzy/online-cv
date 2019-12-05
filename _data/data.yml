@@ -85,10 +85,8 @@ experiences:
       details: |
           - Designed and developed a website that has similar functions to Twitter
           
-          
-
-projects:
-    title: Projects
+researches:
+    title: Researches
     intro: 
     assignments:
       - title: Learning Embeddings for Academic Papers
@@ -97,13 +95,71 @@ projects:
             - Propose and implemented embedding algorithms for large-scale data (over 27M papers, 500M links)
             - Build a Similarity Search Engine for Computer Science papers and authors
             - Design and implemented multiple real-world applications for academic papers, such as Ranking, Classification, Clustering, Author Disambiguation, Item Recommendation, etc.
+      - title: Spammer Detection in Online Social Networks(OSNs)
+        link: "http://zhang18f.myweb.cs.uwindsor.ca/weibo"
+        details : |
+            - Estimate similarity, Identify Near-duplicates, Analyze Spammers in Weibo and Twitter
+      - title: MapReduce Program Design and Performance Analysis based on Hadoop
+        link: "#"
+        details : |
+            - Performance benchmark and analysis on Java and Python
+
+
+
+         
+
+projects:
+    title: Projects
+    intro: 
+    assignments:
+      - title: "Reciprocal Learning Project"
+        link: "https://reciprocal-learning.ca/"
+        role: "Conference Committee Member, Research Assistant, Graduate Assistant"
+        time: June 2017 - Present
+        details: |
+            - Conference Committee Member for multiple international conferences
+            - Web administrator for all websites/servers of the Reciprocal Learning Project
+
+      - title: Xidian Ruisi
+        link: ""http://rs.xidian.edu.cn"
+        role: "Co-funder, Director"
+        time: May 2009 - Present
+        details: |
+            - The largest website in Xidian University – over 20,000 unique visitors per day
+            - Designed, developed and deployed
+              - Private Bit-Torrent Service
+              - World Cup Betting Virtual Game
+              - Online Chatting AI
+              - Live TV Streaming Service
+              - System Monitor Service
+              - Data Hot/Cold Backup Service
+            - Deployed and maintained 4 Linux servers
+
+      - title: Qian Li Ma Studio
+        role: "Funder, Director"
+        time: Sept 2012 - Dec 2012
+        details: |
+            - Recruited and led the team of 15 staffs
+            - Won 2 national-wide awards Apps in Qrobot Application Development Competition
+              - "First prize: Self-learning AI Game (Bai Bian Xiao Dai)"
+              - "Outstanding Award: Education-Aid App (Xiao Q Bei Dan Ci)"
+
+      - title: Quantitive trading for Chinese Market
+        role: "Funder, Director"
+        time: Sept 2012 - Dec 2012
+        details : |
+            - Design a backtesing and online trading platform for Chinese A-share Market and Commodities F)
+            - Design and analysis trading strategies
+            - Design and analysis High-Frequence Trading strategies.
+
+     - title: Search Engine for Computer Science Papers
+        link: "http://zhang18f.myweb.cs.uwindsor.ca/ss"
+        time: Sept 2018 - Sept 2019
+        details : |
+            - Build a Similarity Search Engine for Computer Science papers and authors
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
     papers:
       - title: "P2V: Large-scale academic paper embedding"
         link: "https://link.springer.com/article/10.1007/s11192-019-03206-9"
@@ -126,21 +182,19 @@ publications:
         conference: "Social Network Analysis and Mining, 6(1), December 2016"
 
       - title: "ShortWalk: Long Random Walks Considered Harmful for Network Embeddings on Directed Graphs"
-        link: "#"
+        link: "http://zhang18f.myweb.cs.uwindsor.ca/shortwalk"
         authors: Yi Zhang, Fen Zhao, and Lu Jianguo
         conference: "In The 3rd Workshop of Heterogeneous Information Network Analysis and Applications, CIKM 2019 Workshop, Beijing, China, November 2019"
 
       - title: "Author Embeddings on Heterogeneous Networks"
-        link: "#"
+        link: "http://zhao15m.myweb.cs.uwindsor.ca/a2v"
         authors: Fen Zhao, Yi Zhang, and Lu Jianguo
         conference: "In The 3rd Workshop of Heterogeneous Information Network Analysis and Applications, CIKM 2019 Workshop, Beijing, China, November 2019"
 
       - title: "Identifying Academic Papers in Computer Science Based on Text Classification"
-        link: "#"
         authors: Tong Zhou, Yi Zhang, and Jianguo Lu
         conference: "In Proceedings of the IJCAI 2016 Workshop on Scholarly Big Data, pages 16–21, 2016"
 
       - title: "Near-duplicated Documents in CiteSeerX"
-        link: "#"
         authors: Yi Zhang, Jianguo Lu
         conference: "In Proceedings of the IJCAI 2016 Workshop on Scholarly Big Data, pages 22–28, 2016"
