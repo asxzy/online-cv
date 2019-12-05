@@ -3,7 +3,7 @@
 #
 
 sidebar:
-  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
   education: False # set to False if you want education in main section instead of in sidebar
   # Profile information
   name: Yi Zhang
@@ -28,6 +28,15 @@ sidebar:
       level: Native
       
   interests:
+    - Knowledge Graph
+    - Data Mining
+    - Natural Language Processing
+    - Machine Learning
+    - Deep Learning
+    - Data Representation
+    - Deep Reinforcement Learning
+    - Algorithmic Trading
+    - Information Network Analysis
 
 career-profile:
   title: About me
@@ -111,6 +120,18 @@ projects:
       details: |
           - Conference Committee Member for multiple international conferences
           - Web administrator for all websites/servers of the Reciprocal Learning Project
+    - title: Quantitive trading for Chinese Market
+      role: "Funder, Director"
+      time: Sept 2012 - Dec 2012
+      details : |
+          - Design a backtesing and online trading platform for Chinese A-share Market and Commodities F)
+          - Design and analysis trading strategies
+          - Design and analysis High-Frequence Trading strategies
+    - title: "Search Engine for Computer Science Papers"
+      link: "http://zhang18f.myweb.cs.uwindsor.ca/ss"
+      time: Sept 2018 - Sept 2019
+      details : |
+          - Build a Similarity Search Engine for Computer Science papers and authors
     - title: Xidian Ruisi
       link: "http://rs.xidian.edu.cn"
       role: "Co-funder, Director"
@@ -133,19 +154,6 @@ projects:
           - Won 2 national-wide awards Apps in Qrobot Application Development Competition
             - "First prize: Self-learning AI Game (Bai Bian Xiao Dai)"
             - "Outstanding Award: Education-Aid App (Xiao Q Bei Dan Ci)"
-    - title: Quantitive trading for Chinese Market
-      role: "Funder, Director"
-      time: Sept 2012 - Dec 2012
-      details : |
-          - Design a backtesing and online trading platform for Chinese A-share Market and Commodities F)
-          - Design and analysis trading strategies
-          - Design and analysis High-Frequence Trading strategies
-    - title: "Search Engine for Computer Science Papers"
-      link: "http://zhang18f.myweb.cs.uwindsor.ca/ss"
-      time: Sept 2018 - Sept 2019
-      details : |
-          - Build a Similarity Search Engine for Computer Science papers and authors
-
 publications:
   title: Publications
   papers:
